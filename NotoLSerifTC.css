@@ -2,16 +2,16 @@
     font-family: 'Noto Serif TC';
     font-style: normal;
     font-weight: 400;
-    src: url(https://github.com/linuxlovemin/NotoLightCJK/raw/master/NotoLSerifTC-Regular.woff) format('woff'),
-        url(https://github.com/linuxlovemin/NotoLightCJK/raw/master/NotoLSerifTC-Regular.woff) format('woff2'), 
-        url(https://github.com/linuxlovemin/NotoLightCJK/raw/master/NotoLSerifTC-Regular.otf) format('otf');
+    src: url(https://rawcdn.githack.com/linuxlovemin/NotoLightCJK/29da4ec989313685e8b829bab2857c6b38333707/NotoLSerifTC-Regular.woff) format('woff'),
+        url(https://rawcdn.githack.com/linuxlovemin/NotoLightCJK/29da4ec989313685e8b829bab2857c6b38333707/NotoLSerifTC-Regular.woff) format('woff2'), 
+        url(https://rawcdn.githack.com/linuxlovemin/NotoLightCJK/29da4ec989313685e8b829bab2857c6b38333707/NotoLSerifTC-Regular.otf) format('otf');
 }
 @font-face {
     font-family: 'Noto Serif TC';
     font-style: normal;
     font-weight: 700;
-    src: url(https://github.com/linuxlovemin/NotoLightCJK/raw/master/NotoLSerifTC-Bold.woff) format('woff'),
-        url(https://github.com/linuxlovemin/NotoLightCJK/raw/master/NotoLSerifTC-Bold.woff2) format('woff2'),
-        url(https://github.com/linuxlovemin/NotoLightCJK/raw/master/NotoLSerifTC-Bold.otf) format('otf');
+    src: url(https://rawcdn.githack.com/linuxlovemin/NotoLightCJK/29da4ec989313685e8b829bab2857c6b38333707/NotoLSerifTC-Bold.woff) format('woff'),
+        url(https://rawcdn.githack.com/linuxlovemin/NotoLightCJK/29da4ec989313685e8b829bab2857c6b38333707/NotoLSerifTC-Bold.woff2) format('woff2'),
+        url(https://rawcdn.githack.com/linuxlovemin/NotoLightCJK/29da4ec989313685e8b829bab2857c6b38333707/NotoLSerifTC-Bold.otf) format('otf');
 }
 
