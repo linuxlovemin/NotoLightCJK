@@ -83,4 +83,10 @@
         url(https://rawcdn.githack.com/linuxlovemin/NotoLightCJK/37a3537b8939694512aa3aab58d89f5065da0418/NotoLSerifTC-Black.woff2) format('woff2'),
         url(https://rawcdn.githack.com/linuxlovemin/NotoLightCJK/37a3537b8939694512aa3aab58d89f5065da0418/NotoLSerifTC-Black.otf) format('otf');
 }
-
+/* juyin kaiti */
+@font-face {
+    font-family: 'juyin kaiti';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://rawcdn.githack.com/linuxlovemin/NotoLightCJK/f1e43341651582d831bf9a3246625414b66018d6/zhuyin.woff) format('woff');
+}
